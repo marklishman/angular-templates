@@ -1,4 +1,4 @@
-# angular-2-templates
+# angular-templates
 
 Inline templates with template literals (back-ticks) and external templates.
 
